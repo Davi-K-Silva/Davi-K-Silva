@@ -1,5 +1,5 @@
 <p align="center">
-    <img alt="banner" src="https://github.com/Davi-K-Silva/Davi-K-Silva/blob/output/standard.gif?raw=true" />
+    <img alt="banner" src="https://github.com/Davi-K-Silva/Davi-K-Silva/blob/main/standard.gif?raw=true" />
 </p>
 
 ### 🎃 About Me 🎃:
