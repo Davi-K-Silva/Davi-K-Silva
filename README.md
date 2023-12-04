@@ -13,7 +13,7 @@
 </p>
 
 ### 🤖 Languages/Tools 🤖:
-[![My Skills](https://skillicons.dev/icons?i=java,c,py,linux,git,github)]()
+[![My Skills](https://simpleskill.icons.workers.dev/svg?i=openjdk,c,python,linux,git,github,docker,ansible,terraform,aws)]()
 
 ### 👨‍💻 Social: 👨‍💻
 <p align="left">
