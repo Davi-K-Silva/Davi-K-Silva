@@ -9,7 +9,7 @@
 - 📄 Know about my experiences: [CV](https://drive.google.com/file/d/1w6OL0e1Da6-Wd6XlAgBE_heeJe3LtdYR/view?usp=sharing)
 
 <p align="center">
-    <img alt="contribution snake" width="85%" src="https://github.com/Davi-K-Silva/Davi-K-Silva/blob/output/github-contribution-grid-snake-dark.svg?raw=true"/>
+    <img alt="contribution snake" width="85%" src="https://github.com/Davi-K-Silva/Davi-K-Silva/blob/output/github-snake-dark.svg?raw=true"/>
 </p>
 
 ### 🤖 Languages/Tools 🤖:
